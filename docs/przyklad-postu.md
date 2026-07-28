@@ -4,7 +4,7 @@ Poniżej znajduje się rzeczywisty przykład grafiki i tekstu przygotowanych prz
 
 ## Wygenerowana grafika
 
-![Scruffy – problem ze spadkobiercą](grafiki/scruffy-problem-ze-spadkobierca.png.png)
+![Scruffy – problem ze spadkobiercą](grafiki/scruffy-problem-ze-spadkobierca.png)
 
 ## Treść posta
 
