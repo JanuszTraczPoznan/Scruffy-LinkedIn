@@ -8,12 +8,16 @@ Automatyzacja pobiera aktualny temat, przygotowuje pomysł i opis komiksu, gener
 
 ## Schemat działania
 
+![Schemat scenariusza Make](docs/zrzuty/scenariusz-make.png)
+
 1. Ręczne rozpoczęcie scenariusza.
 2. Wyszukanie aktualnej wiadomości przy użyciu Google Gemini AI.
 3. Przygotowanie opisu i treści komiksu.
 4. Wygenerowanie grafiki ze Scruffym.
 5. Zapisanie grafiki na Google Drive.
 6. Opublikowanie grafiki i treści posta na LinkedInie.
+
+7. 📄 [Zobacz szczegółowy opis scenariusza Make](docs/opis-scenariusza.md)
 
 ## Używane narzędzia
 
