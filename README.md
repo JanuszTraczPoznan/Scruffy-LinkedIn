@@ -17,6 +17,8 @@ Automatyzacja pobiera aktualny temat, przygotowuje pomysł i opis komiksu, gener
 5. Zapisanie grafiki na Google Drive.
 6. Opublikowanie grafiki i treści posta na LinkedInie.
 
+7. 📄 [Zobacz szczegółowy opis scenariusza Make](docs/opis-scenariusza.md)
+
 8. 🖼️ [Zobacz przykładowy post ze Scruffym](docs/przyklad-postu.md)
 
 ## Używane narzędzia
